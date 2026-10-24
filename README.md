@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.lucasleite.us"><img src="assets/terminal.svg" alt="lucas@leite ~ ❯ figlet LUCAS LEITE, then neofetch: control & automation engineer turned principal software engineer. Elixir, TypeScript, Python, C++, Swift." width="100%"></a>
+  <a href="https://www.lucasleite.us"><img src="assets/terminal.svg" alt="Green-phosphor terminal: LEITE INDUSTRIES TERMLINK. LUCAS LEITE banner and neofetch next to a pixel-art robot: control & automation engineer turned principal software engineer." width="100%"></a>
 </div>
 
 ### `❯ cat about.txt`
